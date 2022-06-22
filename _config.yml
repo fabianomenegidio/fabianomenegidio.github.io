@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Lorem ipsum College"
   location         : "Mogi das Cruzes, SP, Brazil"
-  employer         :
+  employer         : "LaBiOmicS"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "fabiano.menegidio@bioinformatica.com.br"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "fabianomenegidio"
   google_plus      :
   keybase          :
   instagram        :
