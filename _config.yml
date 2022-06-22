@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dr. Fabiano Menegidio"
-description              : "Academic Personal Site"
+description              : "Academic Personal Webpage"
 repository               : "fabianomenegidio/fabianomenegidio.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fabiano Menegidio"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Bioinformatician"
   location         : "Mogi das Cruzes, SP, Brazil"
   employer         : "LaBiOmicS"
   pubmed           : 
